@@ -1,6 +1,6 @@
 {
   "homepage": "https://aftabdivan.github.io/inc-dec-redux",
-  "name": "redux-demo",
+  "name": "inc-dec-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
